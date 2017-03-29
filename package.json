@@ -1,0 +1,22 @@
+{
+  "name": "songuardjs",
+  "version": "1.0.0",
+  "description": "Simple lyric saving text file SPA",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willworth/songuardjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willworth/songuardjs/issues"
+  },
+  "homepage": "https://github.com/willworth/songuardjs#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
