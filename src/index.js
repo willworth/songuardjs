@@ -1,2 +1,2 @@
 /* eslint-disable no-console */
-console.log('hi');
+console.log('Just showing that app is building and displaying to console!');
